@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Bartosz, a Software developer from Poland 👨‍💻 Open to remote offers 🚀</div>  
+### <div align="center">I'm Bartosz, a Software/DevOps Engineer from Poland, interested in cloud technologies 👨‍💻 Open to remote offers 🚀</div>  
   
 
 - 🔭 Most of my repositories sadly are private, but I'm working on creating some public ones  
   
 
-- 🌱 I’m currently learning AWS and DevOps  
-  
-
-- 🤩 I'd love to become a Cloud / DevOps or Backend Engineer  
+- 🌱 I’m currently a Junior Software/DevOps Engineer at Digatus  
   
 
 - ⚡ My hobbies apart from anything IT related are cryptocurrencies, gaming/esports and gym  
