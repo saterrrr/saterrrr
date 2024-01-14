@@ -9,7 +9,7 @@
 - 🔭 Most of my repositories sadly are private, but I'm working on creating some public ones  
   
 
-- 🌱 I’m currently a DevOps Engineer at Digatus  
+- 🌱 I’m currently a DevOps Engineer at Modivo  
   
 
 - ⚡ My hobbies apart from anything IT related are stock market, cryptocurrencies, gaming/esports and gym  
